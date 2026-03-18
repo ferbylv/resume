@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title>LY Monogram</title>
+  <rect width="128" height="128" rx="28" fill="#111827" />
+  <path d="M34 30h16v40h18v14H34V30Zm42 0h16v54h-16V30Z" fill="#f8fafc" />
+  <path d="M74 30h20c12.15 0 22 9.85 22 22s-9.85 22-22 22H74V60h19a8 8 0 1 0 0-16H74V30Z" fill="#2563eb" />
+</svg>
